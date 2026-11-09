@@ -102,3 +102,12 @@ https://dev.to/edwardhsing/i-bought-a-domain-at-15-now-it-powers-400000-users-7o
 The DigitalPlat Domain application is open source at [DigitalPlatDev/Domain-OSS](https://github.com/DigitalPlatDev/Domain-OSS).
 
 Documentation improvements to this repository are welcome. See [CONTRIBUTING.md](./CONTRIBUTING.md) before opening a pull request.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: GNU Affero General Public License v3.0 (mantida sem alterações).
+
+**Fonte original:** https://github.com/DigitalPlatDev/FreeDomain
